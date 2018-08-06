@@ -1,0 +1,7 @@
+name: SoupDispenser
+version: 1.0
+author: [Tre, Thomas]
+main: logan.soupdispenser.SoupDispenserPlugin
+commands:
+  soupdispenser:
+    description: View info for SoupDispenser.
